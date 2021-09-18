@@ -55,7 +55,6 @@ class rotatingObject:
         self.vel = vel
         self.aligned = False
         
-
 #Making a list of classes
 objectList = []
 
@@ -177,19 +176,3 @@ while run:
 
 # closes the pygame window
 pygame.quit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
